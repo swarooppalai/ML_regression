@@ -62,8 +62,6 @@ This repository contains Python scripts for analyzing economic indices and build
 
 Feel free to contribute or provide feedback!
 
-**Note:** Replace [Your Name] and [Your Email] with your information.
-
 ---
 
 *This readme serves as a guide for understanding and utilizing the economic index analysis scripts. For any questions or concerns, please contact the contributors.*
