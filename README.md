@@ -59,10 +59,6 @@ This repository contains Python scripts for analyzing economic indices and build
 
 8. **Visualization of Results**: Various plots, such as scatter plots and residual plots, are generated to visualize the model's predictions and residuals.
 
-## Contributors
-
-- [Your Name]
-- [Your Email]
 
 Feel free to contribute or provide feedback!
 
